@@ -83,7 +83,7 @@ export default function PortfolioPage() {
                   </a>
                   <a href={proj.live} target="_blank" rel="noopener noreferrer">
                     <Button className="flex items-center gap-2">
-                      <ExternalLink className="w-4 h-4" /> Live Demo
+                      <ExternalLink className="w-4 h-4" /> Walkthrough
                     </Button>
                   </a>
                 </div>
