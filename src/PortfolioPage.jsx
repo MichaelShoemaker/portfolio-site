@@ -5,11 +5,11 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "YouTube Transcript Semantic Search",
+    title: "YouTube Transcript LLM Search",
     description:
-      "Built a semantic search engine using OpenAI, sentence-transformers, and Elasticsearch to query YouTube transcripts.",
-    stack: ["Python", "Streamlit", "Elasticsearch", "OpenAI API"],
-    github: "https://github.com/yourusername/youtube-transcript-search",
+      "RAG LLM Search that reads the transcripts from a YouTube Playlist and allows users to search for particular topics across all videos",
+    stack: ["Python", "Flask", "Elasticsearch", "Docker"],
+    github: "https://github.com/MichaelShoemaker/PlaylistGuide-LLM-Flask",
     live: "https://your-app-url.render.com"
   },
   {
