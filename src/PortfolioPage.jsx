@@ -23,10 +23,10 @@ const projects = [
   {
     title: "Iceberg + Nessie Document Store",
     description:
-      "Built a document management data lake using Apache Iceberg and Nessie catalog, with Spark-based ingestion.",
-    stack: ["Iceberg", "Spark", "GCP", "Python"],
-    github: "https://github.com/yourusername/iceberg-docs",
-    live: "https://your-app-url-3.render.com"
+      "Docker Compose with a Makefile to load Flight Data into Postgres and query with PGAdmin to Practice SQL",
+    stack: ["Docker", "Postgres", "SQL", "Makefile"],
+    github: "https://github.com/MichaelShoemaker/sql_practice_flight_data",
+    live: "https://www.youtube.com/watch?v=dThedBOnozQ"
   }
 ];
 
