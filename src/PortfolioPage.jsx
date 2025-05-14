@@ -21,7 +21,7 @@ const projects = [
     live: "https://your-app-url-2.render.com"
   },
   {
-    title: "Iceberg + Nessie Document Store",
+    title: "SQL Practice Data",
     description:
       "Docker Compose with a Makefile to load Flight Data into Postgres and query with PGAdmin to Practice SQL",
     stack: ["Docker", "Postgres", "SQL", "Makefile"],
